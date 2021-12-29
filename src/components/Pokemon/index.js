@@ -13,7 +13,7 @@ const User = ({ pokemon }) => {
           <p className="weight">Weight: {weight}</p>
         </>
       ) : (
-        <div> Please search a pokemon!</div>
+        <p> Please search a pokemon!</p>
       )}
     </>
   );

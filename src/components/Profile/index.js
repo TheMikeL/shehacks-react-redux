@@ -5,7 +5,6 @@ import "./Profile.scss";
 const Profile = (props) => {
   const { information } = props;
   const newInformation = props.information
-
   
   return information.map((person) => {
     const {firstName, lastName, job, hobby} = person;
