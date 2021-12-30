@@ -8,7 +8,6 @@ import Forms from "./pages/Forms";
 
 import { Routes, Route } from "react-router-dom";
 import Header from "./components/Header";
-//redux
 
 function App() {
   return (
