@@ -16,6 +16,3 @@ const Header = () => {
 };
 
 export default Header;
-
-
-// Additional resources
